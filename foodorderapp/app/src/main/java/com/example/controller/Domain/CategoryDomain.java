@@ -1,4 +1,4 @@
-package com.example.project.Domain;
+package com.example.controller.Domain;
 
 public class CategoryDomain {
     private String title;

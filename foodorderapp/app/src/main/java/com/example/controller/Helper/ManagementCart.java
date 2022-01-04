@@ -1,10 +1,10 @@
-package com.example.project.Helper;
+package com.example.controller.Helper;
 
 import android.content.Context;
 import android.widget.Toast;
 
-import com.example.project.Domain.FoodDomain;
-import com.example.project.Interface.ChangeNumberItemsListener;
+import com.example.controller.Domain.FoodDomain;
+import com.example.controller.Interface.ChangeNumberItemsListener;
 
 import java.util.ArrayList;
 

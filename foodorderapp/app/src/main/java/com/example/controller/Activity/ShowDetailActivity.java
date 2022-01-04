@@ -1,4 +1,4 @@
-package com.example.project.Activity;
+package com.example.controller.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,9 +8,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.example.project.Domain.FoodDomain;
-import com.example.project.Helper.ManagementCart;
-import com.example.project.R;
+import com.example.controller.Domain.FoodDomain;
+import com.example.controller.Helper.ManagementCart;
+import com.example.controller.R;
 
 public class ShowDetailActivity extends AppCompatActivity {
     private TextView addToCardBtn;

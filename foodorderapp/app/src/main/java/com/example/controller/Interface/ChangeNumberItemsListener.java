@@ -1,4 +1,4 @@
-package com.example.project.Interface;
+package com.example.controller.Interface;
 
 public interface ChangeNumberItemsListener {
     void changed();

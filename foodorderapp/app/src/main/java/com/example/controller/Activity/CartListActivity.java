@@ -1,4 +1,4 @@
-package com.example.project.Activity;
+package com.example.controller.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -11,10 +11,10 @@ import android.widget.LinearLayout;
 import android.widget.ScrollView;
 import android.widget.TextView;
 
-import com.example.project.Adapter.CartListAdapter;
-import com.example.project.Helper.ManagementCart;
-import com.example.project.Interface.ChangeNumberItemsListener;
-import com.example.project.R;
+import com.example.controller.Adapter.CartListAdapter;
+import com.example.controller.Helper.ManagementCart;
+import com.example.controller.Interface.ChangeNumberItemsListener;
+import com.example.controller.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 public class CartListActivity extends AppCompatActivity {

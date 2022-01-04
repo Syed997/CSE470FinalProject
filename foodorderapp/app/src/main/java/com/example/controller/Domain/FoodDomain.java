@@ -1,4 +1,4 @@
-package com.example.project.Domain;
+package com.example.controller.Domain;
 
 import java.io.Serializable;
 

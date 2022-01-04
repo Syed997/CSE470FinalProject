@@ -1,4 +1,4 @@
-package com.example.project.Activity;
+package com.example.controller.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -9,11 +9,11 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.LinearLayout;
 
-import com.example.project.Adapter.CategoryAdapter;
-import com.example.project.Adapter.PopularAdapter;
-import com.example.project.Domain.CategoryDomain;
-import com.example.project.Domain.FoodDomain;
-import com.example.project.R;
+import com.example.controller.Adapter.CategoryAdapter;
+import com.example.controller.Adapter.PopularAdapter;
+import com.example.controller.Domain.CategoryDomain;
+import com.example.controller.Domain.FoodDomain;
+import com.example.controller.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.ArrayList;

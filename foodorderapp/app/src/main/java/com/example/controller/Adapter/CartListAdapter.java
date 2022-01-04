@@ -1,4 +1,4 @@
-package com.example.project.Adapter;
+package com.example.controller.Adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -11,10 +11,10 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.example.project.Domain.FoodDomain;
-import com.example.project.Helper.ManagementCart;
-import com.example.project.Interface.ChangeNumberItemsListener;
-import com.example.project.R;
+import com.example.controller.Domain.FoodDomain;
+import com.example.controller.Helper.ManagementCart;
+import com.example.controller.Interface.ChangeNumberItemsListener;
+import com.example.controller.R;
 
 import java.util.ArrayList;
 

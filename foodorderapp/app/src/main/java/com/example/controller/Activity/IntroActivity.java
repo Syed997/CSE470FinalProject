@@ -1,4 +1,4 @@
-package com.example.project.Activity;
+package com.example.controller.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -7,7 +7,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.project.R;
+import com.example.controller.R;
 
 public class IntroActivity extends AppCompatActivity {
     private ConstraintLayout startBtn;
